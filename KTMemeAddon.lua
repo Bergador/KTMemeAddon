@@ -14,7 +14,8 @@ function GetUnitName(unit, showServerName)
 		elseif name == "Soul Weaver" then
 			return "explody girl"
 		elseif name == "Unstoppable Abomination" then
-			return "meaty boy"
+			-- return "meaty boy"
+			return "Shield Wrath Male Night Elf Warrior Group 1"
 		elseif name == "Bergador" then
 			return "Big Dick Dwarf"
 		elseif name == "Guardian of Icecrown" then
