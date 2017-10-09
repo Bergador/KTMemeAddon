@@ -12,7 +12,7 @@ function GetUnitName(unit, showServerName)
 		elseif name == "Soldier of the Frozen Wastes" then
 			return "b o n y b o y e"
 		elseif name == "Soul Weaver" then
-			return "exploding girl"
+			return "explody girl"
 		elseif name == "Unstoppable Abomination" then
 			return "meaty boy"
 		elseif name == "Bergador" then
