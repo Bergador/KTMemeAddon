@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: KTMemeAddon
 ## Version: 1.00
-## Notes: Replaces mob names of the KT encounter with meme-ier names on the default blizzard unit frames.
+## Notes: Replaces mob names of the KT encounter with meme-ier names.
 
 KTMemeAddon.lua
